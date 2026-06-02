@@ -41,3 +41,10 @@ Forklayın, clone'layın ve bolca commitleyin.
 - Dizi veritabanınızda parolaları olduğu gibi saklamaktan nasıl kaçınacağınızı araştırın. (md5, password hash)
 - Yalnızca kayıtlı ve oturum açmış istemcilere "GET /api/kullanıcılar" erişiminin nasıl verileceğini araştırın.
 - Proje içinde bir kayıt/oturum açma formu ve kullanıcıları görüntüleme araçları içeren bir ön uç(front-end) parçası oluşturun.
+
+
+### Testleri Çalıştırma
+
+- Proje dizinindeki `user.json` dosyasını bulun ve `user_id` alanını NextGen proje ekranında görünen kendi `user_id` değeriniz ile güncelleyin.
+- Projeyi tamamladıktan sonra sonucu NextGen'e göndermek için `npm run sendresults` komutunu kullanın.
+- Komut çalıştıktan sonra NextGen sayfasını refresh ederek skorunuzu kontrol edebilirsiniz.

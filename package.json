@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "sendresults": "node validateTask.js && node sendTestResults.js"
+  }
+}
