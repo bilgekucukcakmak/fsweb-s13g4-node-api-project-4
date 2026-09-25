@@ -12,7 +12,7 @@ Forklayın, clone'layın ve bolca commitleyin.
 
 ### Görev 2: MVP
 
-- [ ] Basit bir API oluşturun:
+- [x] Basit bir API oluşturun:
 
   - `npx gitignore node` komutuyla bir `.gitignore` dosyası oluşturun
   - `npm init --y` komutuyla bir `package.json` oluşturun
